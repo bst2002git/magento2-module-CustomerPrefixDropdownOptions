@@ -8,5 +8,5 @@ Magento 2 Module provides Translation of name prefix options.
 Install the module via composer like so:
 
 ```sh
-composer require idec/magento2-module-CustomerPrefixDropdownOption
+composer require idec/magento2-module-customerprefixdropdownoption
 ```

@@ -1,5 +1,5 @@
 {
-  "name": "idec/magento2-module-CustomerPrefixDropdownOptions",
+  "name": "idec/magento2-module-customerprefixdropdownoptions",
   "description": "This module provides Translation of name prefix options",
   "require": {
     "magento/module-customer": "102.0.*"
@@ -11,7 +11,7 @@
     }
   },
   "type": "magento2-module",
-	"version": "0.0.1",
+	"version": "0.0.2",
   "license": "OSL-3.0",
   "autoload": {
     "files": [
